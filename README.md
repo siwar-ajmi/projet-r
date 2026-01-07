@@ -54,4 +54,4 @@ L'audit souligne que la fracture n'est pas quantitative mais **qualitative**. Un
 * `README.md` : Présentation générale, méthodologie et résultats de l'audit (ce fichier).
 * `mammographie.ipynb` : Notebook complet avec le code source R, les visualisations et les tests statistiques.
 * `equipement_mammographie_hopitaux_publics_sans_annee.csv` : Jeu de données source utilisé pour l'analyse.
-* `Presentation_Audit.pdf` : Support de présentation visuel (Slides) pour la soutenance orale.
+* `Audit Mammo.ppt` : Support de présentation visuel (Slides) pour la soutenance orale.

@@ -6,7 +6,7 @@
 Le cancer du sein est le premier cancer féminin en Tunisie. Cet audit technologique du parc hospitalier public vise à répondre à une question de santé publique majeure : **Le réseau public est-il équipé pour un dépistage précoce équitable ?**
 
 Ce projet analyse la **fracture numérique territoriale** en segmentant les équipements par technologie (Numérique vs Conventionnel) et par région, offrant ainsi un outil d'aide à la décision pour les politiques de santé.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/siwar-ajmi/projet-r/blob/main/mammographie.ipynb)
 ---
 
 ## 🚀 2. Objectifs et Problématique
